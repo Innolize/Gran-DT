@@ -1,0 +1,32 @@
+body{
+    background-image: url(../img/estadio-background.jpg);
+    background-size: cover;
+    
+}
+.roboto{
+    font-family: 'Roboto', sans-serif;
+    color:white;
+}
+.centrado{
+    padding-top: 55px;
+}
+
+hr{
+    background-color: white;
+    border: none;
+}
+.tabla{
+    color: white;
+}
+.arq{
+    background-color: blue;
+}
+.def{
+    background-color: yellow;
+}
+.vol{
+    background-color: lightblue;
+}
+.del{
+    background-color: red;
+}

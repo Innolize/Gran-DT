@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>GRAN DT</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' href="css/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+
+</head>
+
+<body class="roboto">
+    <div class="container" style="background-color:rgba(0,0,0,0.9); margin-top: 25px;">
+        <div class="row">
+            <div class="col-sm" style="padding:10px">
+                <h1>ARMÁ TU EQUIPO</h1>
+                <p>Gran DT es muy fácil: elegí una de las 9 tácticas disponibles y armá tu equipo con 11 jugadores y 4
+                    suplentes. Tenés $65.000.000 y podés elegir tantos jugadores por club como desees.
+
+                    Realizá transferencias ilimitadas libremente hasta el comienzo de la primera fecha de Gran DT.
+
+                </p>
+            </div>
+            <div class="col-sm">
+                <div class="centrado">
+                    <p>Ahora, si ganás la fecha y sos DT Premium, ¡te llevás $100.000! Y si
+                        sos el
+                        campeón de Gran DT, ganás
+                        un viaje a Brasil para vos y un acompañante,
+                        para ver la final de la Copa en noviembre.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm">
+                <div id="LADO-IZQUIERDO"></div>
+                <i class="fab fa-accessible-icon"></i>
+                <div>LISTA DE FUTBOLISTAS</div>
+                <hr id="separador">
+                <div id="Buscador jugadores">
+                    <p>Usá los filtros para encontrar más fácil a tus jugadores.</p>
+                    <div class="row">
+                        <div class="col">
+                            <div style="padding-top: 5px;">
+                                <label for="club">CLUB:</label>
+                                <input class="rounded" type="text" id="club" size="10">
+                            </div>
+                            <div>
+                                <label for="puesto">PUESTO:</label>
+                                <input class="rounded" type="text" id="puesto" size="10">
+                            </div>
+                        </div>
+                        <div class="col">
+                            <div style="padding-top: 5px;">
+                                <label for="cotizacion">Desde:</label>
+                                <input class="rounded" type="number" id="cotizacion" size="12" placeholder="$">
+                            </div>
+                            <div>
+                                <label for="maximo">Hasta:</label>
+                                <input class="rounded" type="number" id="maximo" size="12" placeholder="$">
+                            </div>
+                        </div>
+                    </div>
+                    <div style="padding-top: 5px;">
+                        <label for="busqueda-jugador">Buscar jugadores por apellido</label>
+                        <input class="rounded" type="text" id="busqueda-jugador" size="15">
+                    </div>
+
+                    <table class="table table-striped table-dark table-hover rounded">
+                        <thead>
+                            <tr>
+                                <th scope="col">JUGADOR</th>
+                                <th scope="col">CLUB</th>
+                                <th scope="col">POS</th>
+                                <th scope="col">$</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Jugador</td>
+                                <td>Club</td>
+                                <td>POS</td>
+                                <td>asd</td>
+                            </tr>
+                            <tr>
+                                <td>Jugador</td>
+                                <td>Club</td>
+                                <td>POS</td>
+                                <td>asd</td>
+                            </tr>
+                            <tr>
+                                <td>Jugador</td>
+                                <td>Club</td>
+                                <td>POS</td>
+                                <td>asd</td>
+                            </tr>
+                            <tr>
+                                <td>Jugador</td>
+                                <td>Club</td>
+                                <td>POS</td>
+                                <td>asd</td>
+                            </tr>
+                            <tr>
+                                <td>Jugador</td>
+                                <td>Club</td>
+                                <td>POS</td>
+                                <td>asd</td>
+                            </tr>
+                            <tr>
+                                <td>Jugador</td>
+                                <td>Club</td>
+                                <td>POS</td>
+                                <td>asd</td>
+                            </tr>
+                            <tr>
+                                <td>Jugador</td>
+                                <td>Club</td>
+                                <td>POS</td>
+                                <td>asd</td>
+                            </tr>
+                            <tr>
+                                <td>Jugador</td>
+                                <td>Club</td>
+                                <td>POS</td>
+                                <td>asd</td>
+                            </tr>
+                            <tr>
+                                <td>Jugador</td>
+                                <td>Club</td>
+                                <td>POS</td>
+                                <td>asd</td>
+                            </tr>
+                            <tr>
+                                <td>Jugador</td>
+                                <td>Club</td>
+                                <td>POS</td>
+                                <td>asd</td>
+                            </tr>
+
+
+                        </tbody>
+                    </table>
+                    <nav aria-label="Proxima pagina de jugadores">
+                        <ul class="pagination justify-content-center">
+                            <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+                            <li class="page-item"><a class="page-link" href="#">1</a></li>
+                            <li class="page-item"><a class="page-link" href="#">2</a></li>
+                            <li class="page-item"><a class="page-link" href="#">3</a></li>
+                            <li class="page-item"><a class="page-link" href="#">Next</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+
+            <div class="col-sm">
+                <div class="row">
+                    <div id="LADO-DERECHO"></div>
+                    <div class="col-sm">
+                        <p>PODES GASTAR:</p>
+                        <p>$1.000.000</p>
+                    </div>
+                    <div class="col-sm">
+                        <p>LLEVÁS GASTADO:</p>
+                        <p>$200.000</p>
+                    </div>
+                </div>
+                <hr>
+                <div id="nombre-equipo-usuario">
+                    <a>1</a>
+                    <a>equipo</a>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-7">
+                        <table class="table table-sm table-bordered table-dark">
+                            <thead>
+                                <tr>
+                                    <th style="width: 10%;" scope="col"></th>
+                                    <th style="width: 10%;" scope="col">POS</th>
+                                    <th style="width: 70%; text-align: center;" scope="col">TIULARES</th>
+                                    <th style="width: 10%;" scope="col">CAP</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-primary">ARQ</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-warning">DEF</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-warning">DEF</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-warning">DEF</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-warning">DEF</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-info">VOL</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-info">VOL</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-info">VOL</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-info">VOL</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-danger">DEL</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="bg-light">asd</td>
+                                    <td class="bg-danger">DEL</td>
+                                    <td class="bg-light">Otto</td>
+                                    <td class="bg-success" style="text-align: center;">
+                                        <input type="radio" value="1">
+                                    </td>
+                                </tr>
+                                
+                            </tbody>
+                        </table>
+                        <table class="table table-sm table-bordered table-dark">
+                            <thead>
+                                <tr>
+                                    <th style="width: 10%;" scope="col"></th>
+                                    <th style="width: 10%;" scope="col">POS</th>
+                                    <th style="width: 80%; text-align: center;" scope="col">SUPLENTES</th>
+                                </tr>
+                            </thead>
+                            <tr>
+                                <td class="bg-light">asd</td>
+                                <td class="bg-primary">ARQ</td>
+                                <td class="bg-light">Otto</td>
+                            </tr>
+                            <tr>
+                                <td class="bg-light">asd</td>
+                                <td class="bg-warning">DEF</td>
+                                <td class="bg-light">Otto</td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="bg-light">asd</td>
+                                <td class="bg-info">VOL</td>
+                                <td class="bg-light">Otto</td>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="bg-light">asd</td>
+                                <td class="bg-danger">VOL</td>
+                                <td class="bg-light">Otto</td>
+                                </td>
+                            </tr>
+                            </table>
+                    </div>
+                    <div class="col-5" style="text-align: center;">Tu formación
+                        <div>hola</div>
+                        <div>hola</div>
+                        <div>hola</div>
+                        <div>hola</div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</body>
+
+</html>
