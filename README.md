@@ -1,4 +1,4 @@
-#Gran DT
+# Gran DT
 
-##Diagrama GranDT
+### Diagrama GranDT
 ![Diagrama](img/Diagrama.png)
