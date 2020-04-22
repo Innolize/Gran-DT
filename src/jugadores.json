@@ -1,0 +1,4715 @@
+{
+    "count": 785,
+    "results": [
+        {
+            "nombre": "Javier Bustillos",
+            "equipo": "Boca Juniors",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Esteban Andrada",
+            "equipo": "Boca Juniors",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcos Díaz",
+            "equipo": "Boca Juniors",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Manuel Roffo",
+            "equipo": "Boca Juniors",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Lisandro López",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emmanuel Más",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Julio Buffarini",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Carlos Zambrano",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Júnior Alonso",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Weigandt",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Frank Fabra",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Ávila",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Carlos Izquierdoz",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago Ramos",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nahuel Molina",
+            "equipo": "Boca Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Guillermo Fernández",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Eduardo Salvio",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Gerzel",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Capaldo",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Aaron Molinas",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jorman Campuzano",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Iván Marcone",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Almendra",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Enzo Roldán",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonardo Jara",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emanuel Reynoso",
+            "equipo": "Boca Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Obando",
+            "equipo": "Boca Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Ramón Ábila",
+            "equipo": "Boca Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Carlos Tevez",
+            "equipo": "Boca Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Jan Carlos Hurtado",
+            "equipo": "Boca Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauro Zárate",
+            "equipo": "Boca Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Villa",
+            "equipo": "Boca Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Soldano",
+            "equipo": "Boca Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Armani",
+            "equipo": "River Plate",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Ezequiel Centurión",
+            "equipo": "River Plate",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Germán Lux",
+            "equipo": "River Plate",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Enrique Bologna",
+            "equipo": "River Plate",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Paredes",
+            "equipo": "River Plate",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Robert Rojas",
+            "equipo": "River Plate",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabrizio Angileri",
+            "equipo": "River Plate",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Paulo Díaz",
+            "equipo": "River Plate",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Kevin Sibille",
+            "equipo": "River Plate",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Elías López",
+            "equipo": "River Plate",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Milton Casco",
+            "equipo": "River Plate",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Javier Pinola",
+            "equipo": "River Plate",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Martínez Quarta",
+            "equipo": "River Plate",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gonzalo Montiel",
+            "equipo": "River Plate",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Enzo Fernández",
+            "equipo": "River Plate",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Bruno Zuculini",
+            "equipo": "River Plate",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jorge Carrascal",
+            "equipo": "River Plate",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Quintero",
+            "equipo": "River Plate",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás De La Cruz",
+            "equipo": "River Plate",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago Sosa",
+            "equipo": "River Plate",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Ferreira",
+            "equipo": "River Plate",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonardo Ponzio",
+            "equipo": "River Plate",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Enzo Pérez",
+            "equipo": "River Plate",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ignacio Fernández",
+            "equipo": "River Plate",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Suárez",
+            "equipo": "River Plate",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Julián Álvarez",
+            "equipo": "River Plate",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Girotti",
+            "equipo": "River Plate",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Benjamín Rollheiser",
+            "equipo": "River Plate",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Santos Borré",
+            "equipo": "River Plate",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Pratto",
+            "equipo": "River Plate",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Beltrán",
+            "equipo": "River Plate",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Ignacio Scocco",
+            "equipo": "River Plate",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Perrone",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Hoyos",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Alexander Domínguez",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Borgogno",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías de los Santos",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Hernán De La Fuente",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabián Cubero",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Joaquín García",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Damián Fernández",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro Gianetti",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Guidara",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Miguel Brizuela",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Luis Abram",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcos Enrique",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Versaci",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Garayalde",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Braian Cufré",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Gago",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ricardo Centurión",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ricardo Álvarez",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Núñez",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Robertone",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauro Pittón",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Cáseres",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Thiago Almada",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Galdames",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Álvaro Barreal",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Orellano",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Isaías Barroza",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Francisco Ortega",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Florián Monzón",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Bouzat",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Janson",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Tobías Zarate",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Maximiliano Romero",
+            "equipo": "Vélez Sarsfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Gabriel Arias",
+            "equipo": "Racing Club",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Carlos Olses",
+            "equipo": "Racing Club",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Javier García",
+            "equipo": "Racing Club",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Gómez",
+            "equipo": "Racing Club",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Prado",
+            "equipo": "Racing Club",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "José Luis Rodríguez",
+            "equipo": "Racing Club",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Elias Machuca",
+            "equipo": "Racing Club",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alexis Soto",
+            "equipo": "Racing Club",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Iván Pillud",
+            "equipo": "Racing Club",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Eugenio Mena",
+            "equipo": "Racing Club",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Orban",
+            "equipo": "Racing Club",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonardo Sigali",
+            "equipo": "Racing Club",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Cáceres",
+            "equipo": "Racing Club",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Héctor Fértoli",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Diego González",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Rojas",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "David Barbona",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Oroz",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauricio Martínez",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Benjamín Garré",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Augusto Solari",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonel Miranda",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Díaz",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nery Domínguez",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Julián López",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Evelio Cardozo",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Zaracho",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Walter Montoya",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Luca Andrada",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Tiago Banega",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Carlos Alcaraz",
+            "equipo": "Racing Club",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jonathan Cristaldo",
+            "equipo": "Racing Club",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lisandro López",
+            "equipo": "Racing Club",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Darío Cvitanich",
+            "equipo": "Racing Club",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Iván Maggi",
+            "equipo": "Racing Club",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Reniero",
+            "equipo": "Racing Club",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Chaves",
+            "equipo": "Argentinos Juniors",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Miguel Acosta",
+            "equipo": "Argentinos Juniors",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Leandro Finochietto",
+            "equipo": "Argentinos Juniors",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Forastiero",
+            "equipo": "Argentinos Juniors",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Miguel Torrén",
+            "equipo": "Argentinos Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Kevin Mac Allister",
+            "equipo": "Argentinos Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcos Angeleri",
+            "equipo": "Argentinos Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Maximiliano Centurión",
+            "equipo": "Argentinos Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jonathan Sandoval",
+            "equipo": "Argentinos Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Carlos Quintana",
+            "equipo": "Argentinos Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Caruzzo",
+            "equipo": "Argentinos Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Elías Gómez",
+            "equipo": "Argentinos Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Romero",
+            "equipo": "Argentinos Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Aleo",
+            "equipo": "Argentinos Juniors",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Francis Mac Allister",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Iván Colman",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Damián Batallini",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Andrade",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "César Florentín",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Moyano",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Diego Sosa",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matko Miljevic",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fausto Vera",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Ibarra",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Silva",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fausto Montero",
+            "equipo": "Argentinos Juniors",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Victorio Ramis",
+            "equipo": "Argentinos Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago Silva",
+            "equipo": "Argentinos Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Edwar López",
+            "equipo": "Argentinos Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Mateo Coronel",
+            "equipo": "Argentinos Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Gabriel Hauche",
+            "equipo": "Argentinos Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Ambrogio",
+            "equipo": "Argentinos Juniors",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucio Chiappero",
+            "equipo": "Defensa y Justicia",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Avellaneda",
+            "equipo": "Defensa y Justicia",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Luis Unsain",
+            "equipo": "Defensa y Justicia",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Coyette",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Adonis Frias",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Benítez",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Sienra",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nahuel Gallardo",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gonzalo Piovi",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Tripicchio",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Héctor Martínez",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Edison Mauricio Duarte",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Néstor Breitenbruch",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Rodríguez",
+            "equipo": "Defensa y Justicia",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Miritello",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nelson Acevedo",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rubén Botta",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Guido Mainero",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Neri Cardozo",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Washington Camacho",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Laba",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nahuel Barrios",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Francisco Cerro",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Aldo Maíz",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Braian Ojeda",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Raúl Loaiza",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Escalante",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Barrios",
+            "equipo": "Defensa y Justicia",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Márquez",
+            "equipo": "Defensa y Justicia",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Lucero",
+            "equipo": "Defensa y Justicia",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Leguizamón",
+            "equipo": "Defensa y Justicia",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Eugenio Isnaldo",
+            "equipo": "Defensa y Justicia",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Enzo Coacci",
+            "equipo": "Defensa y Justicia",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Francisco Pizzini",
+            "equipo": "Defensa y Justicia",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Rocco Rios Novo",
+            "equipo": "Lanús",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Rossi",
+            "equipo": "Lanús",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Pablo Cozzani",
+            "equipo": "Lanús",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Guillermo Sara",
+            "equipo": "Lanús",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro Morales",
+            "equipo": "Lanús",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Ousmane N’Dong",
+            "equipo": "Lanús",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Guillermo Burdisso",
+            "equipo": "Lanús",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ezequiel Muñoz",
+            "equipo": "Lanús",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Vera",
+            "equipo": "Lanús",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Pérez",
+            "equipo": "Lanús",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Morgantini",
+            "equipo": "Lanús",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alexander Bernabei",
+            "equipo": "Lanús",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonel Di Plácido",
+            "equipo": "Lanús",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Thaller",
+            "equipo": "Lanús",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro Valenti",
+            "equipo": "Lanús",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Orozco",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gonzalo Casazza",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Belluschi",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelino Moreno",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Belmonte",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Vera",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Quignón",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Pasquini",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Julián Aude",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Carlos Auzqui",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Esquivel",
+            "equipo": "Lanús",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro Acosta",
+            "equipo": "Lanús",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "José Sand",
+            "equipo": "Lanús",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Martinez",
+            "equipo": "Lanús",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Orsini",
+            "equipo": "Lanús",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Pérez",
+            "equipo": "Lanús",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Pedro De la Vega",
+            "equipo": "Lanús",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Francisco Rivadeneira",
+            "equipo": "San Lorenzo",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Monetti",
+            "equipo": "San Lorenzo",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Torrico",
+            "equipo": "San Lorenzo",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro López",
+            "equipo": "San Lorenzo",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Rapetti",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Peralta Bauer",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alexis Flores",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Hernández",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rufino Lucero",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gonzalo Rodríguez",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Bruno Pittón",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gino Peruzzi",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alejandro Donatti",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ramón Arias",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Víctor Salazar",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabricio Coloccini",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Herrera",
+            "equipo": "San Lorenzo",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ignacio Piatti",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Fernández",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alexis Sabella",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Menossi",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Diego Rodríguez",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Óscar Romero",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Fernández",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Ramírez",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gerónimo Poblete",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Luis Sequeira",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alexander Díaz",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Julián Palacios",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Palacios",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Martegani",
+            "equipo": "San Lorenzo",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mariano Peralta Bauer",
+            "equipo": "San Lorenzo",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Adam Bareiro",
+            "equipo": "San Lorenzo",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustin Hausch",
+            "equipo": "San Lorenzo",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Adolfo Gaich",
+            "equipo": "San Lorenzo",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Ángel Romero",
+            "equipo": "San Lorenzo",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Alvaro Maslovski",
+            "equipo": "Rosario Central",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Jeremías Ledesma",
+            "equipo": "Rosario Central",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Miño",
+            "equipo": "Rosario Central",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Josué Ayala",
+            "equipo": "Rosario Central",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Raúl Chamorro",
+            "equipo": "Rosario Central",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Damián Martínez",
+            "equipo": "Rosario Central",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian González",
+            "equipo": "Rosario Central",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro Blanco",
+            "equipo": "Rosario Central",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Joaquín Laso",
+            "equipo": "Rosario Central",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Joan Mazzaco",
+            "equipo": "Rosario Central",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Diego Novaretti",
+            "equipo": "Rosario Central",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rodrigo González",
+            "equipo": "Rosario Central",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Almada",
+            "equipo": "Rosario Central",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emanuel Brítez",
+            "equipo": "Rosario Central",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Kevin Gutiérrez",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Martínez",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jeronimo Rodríguez",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Joaquín Pereyra",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Colazo",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ciro Rius",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rodrigo Villagra",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Francesco Lo Celso",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabián Rinaudo",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Diego Zabala",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Pedro Ojeda",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonel Rivas",
+            "equipo": "Rosario Central",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marco Ruben",
+            "equipo": "Rosario Central",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Alan Marinelli",
+            "equipo": "Rosario Central",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Claudio Riaño",
+            "equipo": "Rosario Central",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Ribas",
+            "equipo": "Rosario Central",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Gamba",
+            "equipo": "Rosario Central",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Alan Aguerre",
+            "equipo": "Newell's Old Boys",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Ramiro Macagno",
+            "equipo": "Newell's Old Boys",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Nelson Ibáñez",
+            "equipo": "Newell's Old Boys",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Lema",
+            "equipo": "Newell's Old Boys",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Angelo Gabrielli",
+            "equipo": "Newell's Old Boys",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago Gentiletti",
+            "equipo": "Newell's Old Boys",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabricio Fontanini",
+            "equipo": "Newell's Old Boys",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mariano Bittolo",
+            "equipo": "Newell's Old Boys",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Stefano Callegari",
+            "equipo": "Newell's Old Boys",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Orihuela",
+            "equipo": "Newell's Old Boys",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Nadalín",
+            "equipo": "Newell's Old Boys",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Manuel Llano",
+            "equipo": "Newell's Old Boys",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Castro",
+            "equipo": "Newell's Old Boys",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Braian Rivero",
+            "equipo": "Newell's Old Boys",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauro Formica",
+            "equipo": "Newell's Old Boys",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alexis Rodríguez",
+            "equipo": "Newell's Old Boys",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Julián Fernández",
+            "equipo": "Newell's Old Boys",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Denis Rodríguez",
+            "equipo": "Newell's Old Boys",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Pérez",
+            "equipo": "Newell's Old Boys",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jerónimo Cacciabue",
+            "equipo": "Newell's Old Boys",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Aníbal Moreno",
+            "equipo": "Newell's Old Boys",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Palacios",
+            "equipo": "Newell's Old Boys",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Luís Leal",
+            "equipo": "Newell's Old Boys",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Maxi Rodríguez",
+            "equipo": "Newell's Old Boys",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristián Insaurralde",
+            "equipo": "Newell's Old Boys",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Rodrigo Salinas",
+            "equipo": "Newell's Old Boys",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Enzo Cabrera",
+            "equipo": "Newell's Old Boys",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Albertengo",
+            "equipo": "Newell's Old Boys",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Maximiliano Gagliardo",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Daniel Sappa",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Alejandro Rivero",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabio Pereyra",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emiliano Papa",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Torrent",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rubén Zamponi",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jesús Soraire",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcos Abreliano",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonardo Marchi",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Sbuttoni",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Horacio Igarzabal",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Diego Núñez",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emiliano Méndez",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Necul",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Álvarez Suárez",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Kruspzky",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mateo Carabajal",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ezequiel Piovi",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Joel Soñora",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonel Picco",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alejo Antilef",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ramiro Balbuena",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lionel Laborda",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Giménez",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Kaprof",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Manuel García",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro Parisi",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Ezequiel Rescaldani",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Ezequiel Cérica",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Jhonatan Candia",
+            "equipo": "Arsenal de Sarandí",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Andrés Pederzoli",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Joaquín Blázquez",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauricio Caranta",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Fragueda",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Guido Herrera",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Rafael Pérez",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Sheyko Studer",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Javier Gandolfi",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Cruz Komar",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Medina",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nahuel Tenaglia",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Enzo Díaz",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonardo Godoy",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Bersano",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Augusto Schott",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Renzo Paparelli",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago Toloza",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Torres",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Ojeda",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Navarro",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Adrián Cubas",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nahuel Bustos",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "José Mauri",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gonzalo Alves",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Méndez",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Martín Payero",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro Guzmán",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jonathan Menéndez",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Pochettino",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauro Valiente",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Carlos Villalba",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Guilherme Parede",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "José Romero",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Solari",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Diego Valoyes",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Dayro Moreno",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauro Ortíz",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Fragapane",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Favio Cabral",
+            "equipo": "Talleres de Córdoba",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Jerónimo Pourtau",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Emiliano Gonzalez",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Mariano Andújar",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauricio Guzmán",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Benedetti",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcos Rojo",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Ignacio Díaz",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Iván Erquiaga",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Mura",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jonathan Schunke",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nazareno Colombo",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Rosales",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauro Díaz",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Imanol Enriquez",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Iván Gómez",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ángel González",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Sánchez",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Diego García",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "David Ayala",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Enzo Kalinski",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nahuel Estévez",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Andrés Ayala",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Dario Sarmiento",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Javier Mascherano",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Fuentes",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Rodríguez",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Martín Cauteruccio",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico González",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Fernández",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Mateo Retegui",
+            "equipo": "Estudiantes de La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Milton Álvarez",
+            "equipo": "Independiente",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Martín Campaña",
+            "equipo": "Independiente",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Renzo Rodríguez",
+            "equipo": "Independiente",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Di Lorenzo",
+            "equipo": "Independiente",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alan Franco",
+            "equipo": "Independiente",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabricio Bustos",
+            "equipo": "Independiente",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Silva",
+            "equipo": "Independiente",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Sergio Barreto",
+            "equipo": "Independiente",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alexander Barboza",
+            "equipo": "Independiente",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Thomas Ortega",
+            "equipo": "Independiente",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Lando",
+            "equipo": "Independiente",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Sánchez Miño",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Andrés Roa",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alan Velasco",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cecilio Domínguez",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas González",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alan Soñora",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Togni",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Hernández",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Carlos Benavídez",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Romero",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Domingo Blanco",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Diego Mercado",
+            "equipo": "Independiente",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Da Rosa",
+            "equipo": "Independiente",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Silvio Romero",
+            "equipo": "Independiente",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Braian Romero",
+            "equipo": "Independiente",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Emanuel Mercado",
+            "equipo": "Independiente",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Leandro Fernández",
+            "equipo": "Independiente",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Braian Martínez",
+            "equipo": "Independiente",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Lucchetti",
+            "equipo": "Atlético Tucumán",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Pizzicanella",
+            "equipo": "Atlético Tucumán",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Alejandro Sánchez",
+            "equipo": "Atlético Tucumán",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabián Monzón",
+            "equipo": "Atlético Tucumán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Ortiz",
+            "equipo": "Atlético Tucumán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Dylan Gissi",
+            "equipo": "Atlético Tucumán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Lagos",
+            "equipo": "Atlético Tucumán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Yonathan Cabral",
+            "equipo": "Atlético Tucumán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Erbes",
+            "equipo": "Atlético Tucumán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gustavo Toledo",
+            "equipo": "Atlético Tucumán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gabriel Risso Patrón",
+            "equipo": "Atlético Tucumán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Guillermo Ortíz",
+            "equipo": "Atlético Tucumán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Bravo",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Cuello",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Guillermo Acosta",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "José Luis Fernández",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ariel Rojas",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonardo Heredia",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Aguirre",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ramiro Carrera",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Camilo Albornoz",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Laméndola",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emanuel Rosales",
+            "equipo": "Atlético Tucumán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leandro Díaz",
+            "equipo": "Atlético Tucumán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Alustiza",
+            "equipo": "Atlético Tucumán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Melano",
+            "equipo": "Atlético Tucumán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Ramiro Ruiz Rodriguez",
+            "equipo": "Atlético Tucumán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Javier Toledo",
+            "equipo": "Atlético Tucumán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Augusto Lotti",
+            "equipo": "Atlético Tucumán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Jonás Romero",
+            "equipo": "Atlético Tucumán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Kevin Isa",
+            "equipo": "Atlético Tucumán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcos Peano",
+            "equipo": "Unión Santa Fe",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Alan Sosa",
+            "equipo": "Unión Santa Fe",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Moyano",
+            "equipo": "Unión Santa Fe",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Calderon",
+            "equipo": "Unión Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Claudio Corvalán",
+            "equipo": "Unión Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Francisco Gerometta",
+            "equipo": "Unión Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jonathan Bottinelli",
+            "equipo": "Unión Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jalil Elías",
+            "equipo": "Unión Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Milo",
+            "equipo": "Unión Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Brian Blasi",
+            "equipo": "Unión Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Godoy",
+            "equipo": "Unión Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jorge Zules",
+            "equipo": "Unión Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucio Berrón",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Máximo Ceratto",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Brian Sobrero",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emanuel Cecchini",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Ríos",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gabriel Carabajal",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Assis",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Elizari",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ezequiel Bonifacio",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Comas",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Troyansky",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Javier Méndez",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Braian Álvarez",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Nardoni",
+            "equipo": "Unión Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Kevin Zenon",
+            "equipo": "Unión Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Cabrera",
+            "equipo": "Unión Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Walter Bou",
+            "equipo": "Unión Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Mazzola",
+            "equipo": "Unión Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Andereggen",
+            "equipo": "Unión Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Alfredo Pussetto",
+            "equipo": "Unión Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lisandro Tablada",
+            "equipo": "Unión Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauro Luna Diale",
+            "equipo": "Unión Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Martín Cañete",
+            "equipo": "Unión Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauricio Arboleda",
+            "equipo": "Banfield",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Altamirano",
+            "equipo": "Banfield",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Cambeses",
+            "equipo": "Banfield",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Esteban Conde",
+            "equipo": "Banfield",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Renato Civelli",
+            "equipo": "Banfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Claudio Bravo",
+            "equipo": "Banfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rodrigo Arciero",
+            "equipo": "Banfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Luciano Lollo",
+            "equipo": "Banfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Dubarbier",
+            "equipo": "Banfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alexis Maldonado",
+            "equipo": "Banfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jorge Rodríguez",
+            "equipo": "Banfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alexis Sosa",
+            "equipo": "Banfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emanuel Coronel",
+            "equipo": "Banfield",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nery Leyes",
+            "equipo": "Banfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Bertolo",
+            "equipo": "Banfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jesús Dátolo",
+            "equipo": "Banfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Quinteros",
+            "equipo": "Banfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Linares",
+            "equipo": "Banfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jonás Gutiérrez",
+            "equipo": "Banfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Giuliano Galoppo",
+            "equipo": "Banfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Reinaldo Lenis",
+            "equipo": "Banfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Luciano Gómez",
+            "equipo": "Banfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Moya",
+            "equipo": "Banfield",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabián Bordagaray",
+            "equipo": "Banfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Fontana",
+            "equipo": "Banfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Urzi",
+            "equipo": "Banfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Daniel Osvaldo",
+            "equipo": "Banfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Junior Arias",
+            "equipo": "Banfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Álvarez",
+            "equipo": "Banfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Feyiseitan Asagidigbi",
+            "equipo": "Banfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Velázquez",
+            "equipo": "Banfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Benega",
+            "equipo": "Banfield",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonel Caffaratti",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Diego Rodríguez",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Enzo Lopez",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Maximiliano Cavallotti",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Jonathan Galván",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Nani",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Oscar Salomón",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcos Sánchez",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jonathan Bay",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Galeano",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Hugo Vera Oviedo",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Díaz",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ismael Quílez",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mateo Montenegro",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Allione",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Vega",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Meli",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gervasio Núñez",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lisandro Alzugaray",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emanuel Romero",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago Gallucci",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Cristaldo",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Miracco",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Francisco Manenti",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Argañaraz",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Joao Rodríguez",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Dany Cure",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Chávez",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Emanuel Cuevas",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Jonathan Herrera",
+            "equipo": "Central Córdoba (Santiago del Estero)",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Nahuel Manganelli",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Durso",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Nelson Insfrán",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Jorge Broun",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Fernández",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Paolo Goltz",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonardo Morales",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Maximiliano Caire",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Maximiliano Coronel",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Germán Guiffrey",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Licht",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Manuel Guanini",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Melluso",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Zago Zegarra",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Harrinson Mancilla",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Mussis",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías García",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Víctor Ayala",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Brahian Alemán",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Miranda",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "José Paradela",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Guillermo Enrique",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Pérez",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Patricio Monti",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro Chávez",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Cuadra",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Cocimano",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Claudio Spinelli",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Leandro Contín",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Horacio Tijanovich",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Jesús Vargas",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Jhonathan Agudelo",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Barrios",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Maximiliano Comba",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Eric Ramírez",
+            "equipo": "Gimnasia La Plata",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Rivasseau",
+            "equipo": "Patronato",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Ibáñez",
+            "equipo": "Patronato",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Costa",
+            "equipo": "Patronato",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Wálter Andrade",
+            "equipo": "Patronato",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Oliver Benítez",
+            "equipo": "Patronato",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Christian Chimino",
+            "equipo": "Patronato",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leandro Marín",
+            "equipo": "Patronato",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Escudero",
+            "equipo": "Patronato",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jorge Aruga",
+            "equipo": "Patronato",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mathías Abero",
+            "equipo": "Patronato",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Mancinelli",
+            "equipo": "Patronato",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Bruno Urribarri",
+            "equipo": "Patronato",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gabriel Díaz",
+            "equipo": "Patronato",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Luna",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro Comas",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gabriel Compagnucci",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago Briñone",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Brian Nievas",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Cortizo",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Sufi",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Brian Negro",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Damián Lemos",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Delgadillo",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago Rosales",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Julián Chicco",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Dardo Miloc",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lautaro Torres",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Faustino Dettler",
+            "equipo": "Patronato",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Pastorelli",
+            "equipo": "Patronato",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Tarragona",
+            "equipo": "Patronato",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Hugo Silveira",
+            "equipo": "Patronato",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "José Barreto",
+            "equipo": "Patronato",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Franzoni",
+            "equipo": "Patronato",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Gabriel Ávalos",
+            "equipo": "Patronato",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Vietto",
+            "equipo": "Patronato",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Antony Silva",
+            "equipo": "Huracán",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Pellegrino",
+            "equipo": "Huracán",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Rafael Ferrario",
+            "equipo": "Huracán",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Meza",
+            "equipo": "Huracán",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Leandro Grimi",
+            "equipo": "Huracán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gonzalo Bettini",
+            "equipo": "Huracán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Romat",
+            "equipo": "Huracán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Carlos Araujo",
+            "equipo": "Huracán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Saúl Salcedo",
+            "equipo": "Huracán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ezequiel Navarro",
+            "equipo": "Huracán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Braian Maidana",
+            "equipo": "Huracán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Merolla",
+            "equipo": "Huracán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cesar Ibañez",
+            "equipo": "Huracán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Cosciuc",
+            "equipo": "Huracán",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Oro",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Adrián Daniel Calello",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago Hezze",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Martín Ojeda",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Iván Tierno",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Francisco Ramírez",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rodrigo Gómez",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mariano Bareiro",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauro Bogado",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Joaquín Arzura",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Vieyra",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Javier Mendoza",
+            "equipo": "Huracán",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Gauto",
+            "equipo": "Huracán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Garro",
+            "equipo": "Huracán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Andrés Chávez",
+            "equipo": "Huracán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Cordero",
+            "equipo": "Huracán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Norberto Briasco",
+            "equipo": "Huracán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Coniglio",
+            "equipo": "Huracán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Rodrigo Cabral",
+            "equipo": "Huracán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Curruhinca",
+            "equipo": "Huracán",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Luciano Pocrnjic",
+            "equipo": "Aldosivi",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Luis Ingolotti",
+            "equipo": "Aldosivi",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabián Assmann",
+            "equipo": "Aldosivi",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Mario López",
+            "equipo": "Aldosivi",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cain Fara",
+            "equipo": "Aldosivi",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonel Galeano",
+            "equipo": "Aldosivi",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcos Miers",
+            "equipo": "Aldosivi",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Evangelista",
+            "equipo": "Aldosivi",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emanuel Iñiguez",
+            "equipo": "Aldosivi",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Villalba",
+            "equipo": "Aldosivi",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nicolás Bazzana",
+            "equipo": "Aldosivi",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Gil Romero",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nazareno Solís",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Gino",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Román Martínez",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Bertoglio",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Francisco Grahl",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nahuel Yeri",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gonzalo Verón",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Pablo Becker",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leandro Maciel",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Joaquín Indacoechea",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Joel Juárez",
+            "equipo": "Aldosivi",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rodrigo Contreras",
+            "equipo": "Aldosivi",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Andrada",
+            "equipo": "Aldosivi",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Rincón",
+            "equipo": "Aldosivi",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco Pérez",
+            "equipo": "Aldosivi",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Tobares",
+            "equipo": "Aldosivi",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Leonardo Burián",
+            "equipo": "Colón Santa Fe",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Ignacio Chicco",
+            "equipo": "Colón Santa Fe",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Joaquín Hass",
+            "equipo": "Colón Santa Fe",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Bruno Bianchi",
+            "equipo": "Colón Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Emanuel Olivera",
+            "equipo": "Colón Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Alex Vigo",
+            "equipo": "Colón Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Damián Schmidt",
+            "equipo": "Colón Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Díaz",
+            "equipo": "Colón Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gonzalo Escobar",
+            "equipo": "Colón Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Garcés",
+            "equipo": "Colón Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rafael Delgado",
+            "equipo": "Colón Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rafael García",
+            "equipo": "Colón Santa Fe",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Facundo Farías",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Doffo",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Matías Fritzler",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Fernando Zuqui",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Guillermo Celis",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Federico Lértora",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mateo Hernández",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Cristian Bernardi",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Braian Galván",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Brian Farioli",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Estigarribia",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Rodrigo Aliendro",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gabriel Esparza",
+            "equipo": "Colón Santa Fe",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Mauro Da Luz",
+            "equipo": "Colón Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Lucas Viatri",
+            "equipo": "Colón Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Luis Rodríguez",
+            "equipo": "Colón Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Chancalay",
+            "equipo": "Colón Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Wilson Morelo",
+            "equipo": "Colón Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago Pierotti",
+            "equipo": "Colón Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Sandoval",
+            "equipo": "Colón Santa Fe",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Roberto Ramírez",
+            "equipo": "Godoy Cruz",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Bolado",
+            "equipo": "Godoy Cruz",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Rodrigo Rey",
+            "equipo": "Godoy Cruz",
+            "posicion": "goalkeepers",
+            "precio": ""
+        },
+        {
+            "nombre": "Christian Almeida",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gastón Arturia",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Joaquín Varela",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Danilo Ortíz",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomás Cardona",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gabriel Carrasco",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Herrera",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Nahuel Arena",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gianluca Ferrari",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Enzo Ybañez",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Álvarez",
+            "equipo": "Godoy Cruz",
+            "posicion": "defenders",
+            "precio": ""
+        },
+        {
+            "nombre": "Zaid Romero",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Luciano Pizarro",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Wilder Cartagena",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Ivan Smith",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Richard Prieto",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Valentín Burgoa",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Leandro Vella",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Franco González",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Agustín Manzur",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Marcelo Freites",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Gabriel Alanís",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Brunetta",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Juan Andrada",
+            "equipo": "Godoy Cruz",
+            "posicion": "midfielders",
+            "precio": ""
+        },
+        {
+            "nombre": "Jaime Ayovi",
+            "equipo": "Godoy Cruz",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Julían García",
+            "equipo": "Godoy Cruz",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Miguel Merentiel",
+            "equipo": "Godoy Cruz",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Santiago García",
+            "equipo": "Godoy Cruz",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Fabián Henríquez",
+            "equipo": "Godoy Cruz",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Sebastián Lomónaco",
+            "equipo": "Godoy Cruz",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Tomas Badaloni",
+            "equipo": "Godoy Cruz",
+            "posicion": "forwards",
+            "precio": ""
+        },
+        {
+            "nombre": "Ezequiel Bullaude",
+            "equipo": "Godoy Cruz",
+            "posicion": "forwards",
+            "precio": ""
+        }
+    ]
+}
